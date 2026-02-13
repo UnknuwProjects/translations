@@ -37,7 +37,7 @@ Here is a list of currently supported languages:
 - `values-it`: Italian
 - `values-ja`: Japanese
 - `values-jv`: Javanese
-- `values-jv_sby`: Javanese (Suroboyoan)
+- `values-b+jv+x+sby`: Javanese (Suroboyoan)
 - `values-ko`: Korean
 - `values-lt`: Lithuanian
 - `values-ms`: Malay
